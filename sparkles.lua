@@ -1,6 +1,6 @@
 addon = addon or {}
 addon.name = 'sparkles'
-addon.author = ' Windower Author - Rubenator (Ashita port)'
+addon.author = ' Windower Author - Rubenator (Ashita port by Zarianna)'
 addon.version = '1.0.0'
 addon.desc = 'Displays the names/nameplates of otherwise hidden entities.'
 
